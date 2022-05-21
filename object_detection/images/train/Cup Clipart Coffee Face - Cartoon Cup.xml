@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cup Clipart Coffee Face - Cartoon Cup.png</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Cup Clipart Coffee Face - Cartoon Cup.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>37</ymin>
+			<xmax>830</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>

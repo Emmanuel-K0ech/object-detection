@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>750_ Cup Pictures [HD] _ Download Free.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\750_ Cup Pictures [HD] _ Download Free.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4681</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1458</xmin>
+			<ymin>1177</ymin>
+			<xmax>2943</xmax>
+			<ymax>2491</ymax>
+		</bndbox>
+	</object>
+</annotation>

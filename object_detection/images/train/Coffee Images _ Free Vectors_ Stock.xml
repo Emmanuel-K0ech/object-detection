@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Coffee Images _ Free Vectors_ Stock.webp</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Coffee Images _ Free Vectors_ Stock.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>191</ymin>
+			<xmax>1262</xmax>
+			<ymax>1318</ymax>
+		</bndbox>
+	</object>
+</annotation>

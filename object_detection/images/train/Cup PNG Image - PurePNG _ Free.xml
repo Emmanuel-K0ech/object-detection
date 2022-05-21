@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cup PNG Image - PurePNG _ Free.png</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Cup PNG Image - PurePNG _ Free.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2666</width>
+		<height>1886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>235</ymin>
+			<xmax>2232</xmax>
+			<ymax>1662</ymax>
+		</bndbox>
+	</object>
+</annotation>

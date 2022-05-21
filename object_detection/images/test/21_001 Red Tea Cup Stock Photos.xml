@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>21_001 Red Tea Cup Stock Photos.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\21_001 Red Tea Cup Stock Photos.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>65</ymin>
+			<xmax>567</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

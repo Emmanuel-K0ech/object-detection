@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>New Glass Cup ZB24 6pcs Set - Copia Kenya.jpeg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\New Glass Cup ZB24 6pcs Set - Copia Kenya.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>160</ymin>
+			<xmax>724</xmax>
+			<ymax>690</ymax>
+		</bndbox>
+	</object>
+</annotation>

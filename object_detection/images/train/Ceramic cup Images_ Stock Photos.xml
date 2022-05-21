@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Ceramic cup Images_ Stock Photos.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Ceramic cup Images_ Stock Photos.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>41</ymin>
+			<xmax>220</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

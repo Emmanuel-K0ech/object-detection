@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Glass Transparent Glass Cup Tea.jpeg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Glass Transparent Glass Cup Tea.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>17</ymin>
+			<xmax>412</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

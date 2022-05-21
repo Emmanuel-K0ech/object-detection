@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8 Best Travel Mugs 2022 _ The Strategist.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\8 Best Travel Mugs 2022 _ The Strategist.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>20</ymin>
+			<xmax>555</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

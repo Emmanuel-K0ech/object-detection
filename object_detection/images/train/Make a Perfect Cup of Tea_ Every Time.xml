@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Make a Perfect Cup of Tea_ Every Time.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Make a Perfect Cup of Tea_ Every Time.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1125</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>201</ymin>
+			<xmax>1222</xmax>
+			<ymax>843</ymax>
+		</bndbox>
+	</object>
+</annotation>

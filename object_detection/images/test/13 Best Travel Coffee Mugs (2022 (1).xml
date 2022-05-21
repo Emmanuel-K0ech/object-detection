@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>13 Best Travel Coffee Mugs (2022 (1).jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\13 Best Travel Coffee Mugs (2022 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>936</xmin>
+			<ymin>363</ymin>
+			<xmax>1640</xmax>
+			<ymax>1463</ymax>
+		</bndbox>
+	</object>
+</annotation>

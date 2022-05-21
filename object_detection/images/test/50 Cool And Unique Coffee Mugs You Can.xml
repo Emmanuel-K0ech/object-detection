@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>50 Cool And Unique Coffee Mugs You Can.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\50 Cool And Unique Coffee Mugs You Can.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>1396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>681</ymin>
+			<xmax>510</xmax>
+			<ymax>925</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>1049</ymin>
+			<xmax>525</xmax>
+			<ymax>1381</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Mug cup Images_ Stock Photos &amp; Vectors.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Mug cup Images_ Stock Photos &amp; Vectors.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>233</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>54</ymin>
+			<xmax>215</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

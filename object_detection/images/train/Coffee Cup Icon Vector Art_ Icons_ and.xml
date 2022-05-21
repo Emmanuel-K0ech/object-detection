@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Coffee Cup Icon Vector Art_ Icons_ and.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Coffee Cup Icon Vector Art_ Icons_ and.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>81</ymin>
+			<xmax>179</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>83</ymin>
+			<xmax>372</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

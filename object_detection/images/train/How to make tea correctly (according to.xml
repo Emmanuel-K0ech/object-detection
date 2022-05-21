@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>How to make tea correctly (according to.jpeg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\How to make tea correctly (according to.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>615</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>11</ymin>
+			<xmax>547</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

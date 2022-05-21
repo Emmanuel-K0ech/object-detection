@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>How much caffeine in a cup of coffee.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\How much caffeine in a cup of coffee.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>628</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>301</ymin>
+			<xmax>545</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

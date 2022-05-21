@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>500_ Tea Cup Pictures _ Download Free (1).jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\500_ Tea Cup Pictures _ Download Free (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>1987</ymin>
+			<xmax>2599</xmax>
+			<ymax>3112</ymax>
+		</bndbox>
+	</object>
+</annotation>

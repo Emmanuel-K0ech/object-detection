@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>What Is a Demitasse (Or Espresso) Cup_.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\What Is a Demitasse (Or Espresso) Cup_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2062</width>
+		<height>1160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>861</xmin>
+			<ymin>658</ymin>
+			<xmax>1198</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+</annotation>

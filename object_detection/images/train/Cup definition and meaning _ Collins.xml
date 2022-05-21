@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cup definition and meaning _ Collins.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Cup definition and meaning _ Collins.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>307</ymin>
+			<xmax>944</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

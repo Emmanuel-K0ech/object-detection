@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Download · Pexels Stock Photos (1).jpeg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Download · Pexels Stock Photos (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3817</width>
+		<height>5726</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1553</xmin>
+			<ymin>3588</ymin>
+			<xmax>3303</xmax>
+			<ymax>5146</ymax>
+		</bndbox>
+	</object>
+</annotation>

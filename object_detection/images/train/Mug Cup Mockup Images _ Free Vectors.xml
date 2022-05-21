@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Mug Cup Mockup Images _ Free Vectors.webp</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Mug Cup Mockup Images _ Free Vectors.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>321</ymin>
+			<xmax>1266</xmax>
+			<ymax>1014</ymax>
+		</bndbox>
+	</object>
+</annotation>

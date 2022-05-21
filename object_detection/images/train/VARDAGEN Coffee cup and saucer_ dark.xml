@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>VARDAGEN Coffee cup and saucer_ dark.webp</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\VARDAGEN Coffee cup and saucer_ dark.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>134</ymin>
+			<xmax>582</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

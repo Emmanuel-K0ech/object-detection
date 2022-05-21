@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Melamine Oval Plate B11 Flowered 6pcs.png</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Melamine Oval Plate B11 Flowered 6pcs.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>205</ymin>
+			<xmax>777</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

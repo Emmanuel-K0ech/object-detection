@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Free photo_ Cup - Bar_ Objects_ Nobody.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Free photo_ Cup - Bar_ Objects_ Nobody.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1995</width>
+		<height>2104</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>64</ymin>
+			<xmax>1910</xmax>
+			<ymax>2027</ymax>
+		</bndbox>
+	</object>
+</annotation>

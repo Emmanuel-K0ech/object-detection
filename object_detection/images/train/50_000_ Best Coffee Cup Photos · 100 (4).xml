@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>50_000_ Best Coffee Cup Photos · 100 (4).jpeg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\50_000_ Best Coffee Cup Photos · 100 (4).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3128</width>
+		<height>4693</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1529</xmin>
+			<ymin>2421</ymin>
+			<xmax>2739</xmax>
+			<ymax>4071</ymax>
+		</bndbox>
+	</object>
+</annotation>

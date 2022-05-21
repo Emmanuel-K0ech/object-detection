@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Birthday Anniversary Coffee Tea Cup.jpeg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Birthday Anniversary Coffee Tea Cup.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>411</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>410</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

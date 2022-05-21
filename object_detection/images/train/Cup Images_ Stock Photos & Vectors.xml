@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cup Images_ Stock Photos &amp; Vectors.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Cup Images_ Stock Photos &amp; Vectors.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>693</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>43</ymin>
+			<xmax>229</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>44</ymin>
+			<xmax>444</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>49</ymin>
+			<xmax>663</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

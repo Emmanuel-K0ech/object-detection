@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1_204_349 Coffee Cup Stock Photos (3).jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\1_204_349 Coffee Cup Stock Photos (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>28</ymin>
+			<xmax>445</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

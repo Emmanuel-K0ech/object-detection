@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Plastic Cup Mockup Images _ Free.webp</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Plastic Cup Mockup Images _ Free.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>745</xmin>
+			<ymin>417</ymin>
+			<xmax>1257</xmax>
+			<ymax>1172</ymax>
+		</bndbox>
+	</object>
+</annotation>

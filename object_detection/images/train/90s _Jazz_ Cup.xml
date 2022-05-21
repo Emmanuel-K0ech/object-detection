@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>90s _Jazz_ Cup.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\90s _Jazz_ Cup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>992</width>
+		<height>744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>9</ymin>
+			<xmax>790</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>The meaning and symbolism of the word.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\The meaning and symbolism of the word.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>357</ymin>
+			<xmax>1964</xmax>
+			<ymax>1651</ymax>
+		</bndbox>
+	</object>
+</annotation>

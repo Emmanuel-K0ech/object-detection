@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>VÄRDERA Coffee cup and saucer_ white - IKEA.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\VÄRDERA Coffee cup and saucer_ white - IKEA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>262</ymin>
+			<xmax>1379</xmax>
+			<ymax>1140</ymax>
+		</bndbox>
+	</object>
+</annotation>

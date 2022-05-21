@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>make coffee in a drip coffee maker.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\make coffee in a drip coffee maker.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>275</ymin>
+			<xmax>1438</xmax>
+			<ymax>1170</ymax>
+		</bndbox>
+	</object>
+</annotation>

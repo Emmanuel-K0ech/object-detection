@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Waxy Turquoise And Purple Cup.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Waxy Turquoise And Purple Cup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>69</ymin>
+			<xmax>447</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+</annotation>

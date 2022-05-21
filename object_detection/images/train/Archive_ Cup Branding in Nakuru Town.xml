@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Archive_ Cup Branding in Nakuru Town.jpg</filename>
+	<path>C:\Users\Melvintizita\Desktop\cups\images\Archive_ Cup Branding in Nakuru Town.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>162</ymin>
+			<xmax>749</xmax>
+			<ymax>703</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>756</xmin>
+			<ymin>155</ymin>
+			<xmax>1256</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>
